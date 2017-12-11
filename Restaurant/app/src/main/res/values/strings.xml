@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="filter_customer_name">
+  Type customer name to filter&#8230;
+ </string>
+    <string name="title_activity_table">Reservation Table Chart</string>
+</resources>
